@@ -105,4 +105,4 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ---
 
-Made with ❤️ by [Aaryan Sharma](https://github.com/harshulchawla1408)
+Made with ❤️ by [Aaryan Sharma](https://github.com/sharmaAaryan/TrendHaven.git)
