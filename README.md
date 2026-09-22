@@ -60,7 +60,7 @@
 
 ## 🚀 Installation & Setup
 <pre>1️⃣ Clone the Repository
-git clone https://github.com/harshulchawla1408/TrendHaven.git
+git clone https://github.com/sharmaAaryan/TrendHaven.git
 cd Trend_Haven
 
 2️⃣ Install Dependencies for both client and server folders (In separate terminals)
@@ -105,10 +105,4 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ---
 
-## 📃 License
-
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
----
-
-Made with ❤️ by [Harshul Chawla](https://github.com/harshulchawla1408)
+Made with ❤️ by [Aaryan Sharma](https://github.com/harshulchawla1408)
